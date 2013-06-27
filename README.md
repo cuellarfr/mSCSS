@@ -1,10 +1,7 @@
-ABOUT
+INSTALLATION
 ------------
 
-This is a fork of mCSS-SublimeText (https://github.com/karbassi/) with support of Compass
-The goal is to add support of every usefull compass mixin. For instance
+    cd "~/Library/Application Support/Sublime Text 2/Packages/"
+    git clone git://github.com/mrtxarly/mSCSS.git "mSCSS"
 
-	lg => Linear gradient
-	br => border radius
-	bs => box shadow
-	...
+Note: If that directory wasn't found, you'll need to create it.
