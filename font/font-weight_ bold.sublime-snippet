@@ -2,5 +2,5 @@
     <content><![CDATA[font-weight: bold;$0]]></content>
     <description>font-weight: bold</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>fw</tabTrigger>
+    <tabTrigger>fwb</tabTrigger>
 </snippet>

@@ -2,5 +2,5 @@
     <content><![CDATA[margin-top: 0;$0]]></content>
     <description>margin-top: 0</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>mtt</tabTrigger>
+    <tabTrigger>mt0</tabTrigger>
 </snippet>

@@ -2,5 +2,5 @@
     <content><![CDATA[list-style-type: disc;$0]]></content>
     <description>list-style-type: disc</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>lst</tabTrigger>
+    <tabTrigger>lstd</tabTrigger>
 </snippet>

@@ -2,5 +2,5 @@
     <content><![CDATA[visibility: collapse;$0]]></content>
     <description>visibility: collapse</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>v</tabTrigger>
+    <tabTrigger>vc</tabTrigger>
 </snippet>

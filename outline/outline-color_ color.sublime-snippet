@@ -2,5 +2,5 @@
     <content><![CDATA[outline-style: #${1:fff};$0]]></content>
     <description>outline-color: color</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>ol</tabTrigger>
+    <tabTrigger>olc</tabTrigger>
 </snippet>

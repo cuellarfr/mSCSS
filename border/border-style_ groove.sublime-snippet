@@ -2,5 +2,5 @@
     <content><![CDATA[border-style: groove;$0]]></content>
     <description>border-style: groove</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>bs</tabTrigger>
+    <tabTrigger>bsg</tabTrigger>
 </snippet>

@@ -2,5 +2,5 @@
     <content><![CDATA[cursor: move;$0]]></content>
     <description>cursor: move</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>cu</tabTrigger>
+    <tabTrigger>cum</tabTrigger>
 </snippet>

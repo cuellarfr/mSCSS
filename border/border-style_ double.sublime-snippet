@@ -2,5 +2,5 @@
     <content><![CDATA[border-style: double;$0]]></content>
     <description>border-style: double</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>bs</tabTrigger>
+    <tabTrigger>bsd</tabTrigger>
 </snippet>

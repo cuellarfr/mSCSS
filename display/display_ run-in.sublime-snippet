@@ -2,5 +2,5 @@
     <content><![CDATA[display: run-in;$0]]></content>
     <description>display: run-in</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>d</tabTrigger>
+    <tabTrigger>dr</tabTrigger>
 </snippet>

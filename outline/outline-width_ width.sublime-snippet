@@ -2,5 +2,5 @@
     <content><![CDATA[outline-width: ${1:1}${2:px};$0]]></content>
     <description>outline-width: width</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>ol</tabTrigger>
+    <tabTrigger>olw</tabTrigger>
 </snippet>

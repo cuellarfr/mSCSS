@@ -2,5 +2,5 @@
     <content><![CDATA[list-style-image: url($1);$0]]></content>
     <description>list-style-image: url</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>lsi</tabTrigger>
+    <tabTrigger>lsiu</tabTrigger>
 </snippet>

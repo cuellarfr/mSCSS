@@ -2,5 +2,5 @@
     <content><![CDATA[cursor: text;$0]]></content>
     <description>cursor: text</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>cu</tabTrigger>
+    <tabTrigger>cut</tabTrigger>
 </snippet>

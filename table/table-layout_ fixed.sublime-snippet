@@ -2,5 +2,5 @@
     <content><![CDATA[table-layout: fixed;$0]]></content>
     <description>table-layout: fixed</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>tl</tabTrigger>
+    <tabTrigger>tlf</tabTrigger>
 </snippet>

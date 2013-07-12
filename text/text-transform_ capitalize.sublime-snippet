@@ -2,5 +2,5 @@
     <content><![CDATA[text-transform: capitalize;$0]]></content>
     <description>text-transform: capitalize</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>tt</tabTrigger>
+    <tabTrigger>ttc</tabTrigger>
 </snippet>

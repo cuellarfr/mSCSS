@@ -2,5 +2,5 @@
     <content><![CDATA[word-spacing: normal;$0]]></content>
     <description>word-spacing: normal</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>ws</tabTrigger>
+    <tabTrigger>wsn</tabTrigger>
 </snippet>

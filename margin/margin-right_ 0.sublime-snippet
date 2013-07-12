@@ -2,5 +2,5 @@
     <content><![CDATA[margin-right: 0;$0]]></content>
     <description>margin-right: 0</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>mrr</tabTrigger>
+    <tabTrigger>mr0</tabTrigger>
 </snippet>

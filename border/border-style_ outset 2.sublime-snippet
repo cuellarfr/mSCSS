@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[border-style: outset;$0]]></content>
-    <description>border-style: outset</description>
-    <scope>source.css,source.scss</scope>
-    <tabTrigger>bso</tabTrigger>
-</snippet>

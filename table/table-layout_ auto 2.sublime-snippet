@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[table-layout: auto;$0]]></content>
-    <description>table-layout: auto</description>
-    <scope>source.css,source.scss</scope>
-    <tabTrigger>tla</tabTrigger>
-</snippet>

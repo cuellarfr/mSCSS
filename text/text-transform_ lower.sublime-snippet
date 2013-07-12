@@ -2,5 +2,5 @@
     <content><![CDATA[text-transform: lowercase;$0]]></content>
     <description>text-transform: lower</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>tt</tabTrigger>
+    <tabTrigger>ttl</tabTrigger>
 </snippet>

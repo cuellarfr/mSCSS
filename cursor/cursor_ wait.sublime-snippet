@@ -2,5 +2,5 @@
     <content><![CDATA[cursor: wait;$0]]></content>
     <description>cursor: wait</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>cu</tabTrigger>
+    <tabTrigger>cuw</tabTrigger>
 </snippet>

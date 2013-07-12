@@ -2,5 +2,5 @@
     <content><![CDATA[list-style-position: inside;$0]]></content>
     <description>list-style-position: inside</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>lsp</tabTrigger>
+    <tabTrigger>lspi</tabTrigger>
 </snippet>

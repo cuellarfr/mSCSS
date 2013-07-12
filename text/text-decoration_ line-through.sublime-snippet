@@ -2,5 +2,5 @@
     <content><![CDATA[text-decoration: line-through;$0]]></content>
     <description>text-decoration: line-through</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>td</tabTrigger>
+    <tabTrigger>tdlt</tabTrigger>
 </snippet>

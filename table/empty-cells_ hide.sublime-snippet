@@ -2,5 +2,5 @@
     <content><![CDATA[empty-cells: hide;$0]]></content>
     <description>empty-cells: hide</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>ec</tabTrigger>
+    <tabTrigger>ech</tabTrigger>
 </snippet>

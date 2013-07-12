@@ -2,5 +2,5 @@
     <content><![CDATA[display: list-item;$0]]></content>
     <description>display: list-item</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>d</tabTrigger>
+    <tabTrigger>dli</tabTrigger>
 </snippet>

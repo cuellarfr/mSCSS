@@ -2,5 +2,5 @@
     <content><![CDATA[visibility: visible;$0]]></content>
     <description>visibility: visible</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>v</tabTrigger>
+    <tabTrigger>vv</tabTrigger>
 </snippet>

@@ -2,5 +2,5 @@
     <content><![CDATA[list-style-image: none;$0]]></content>
     <description>list-style-image: none</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>lsi</tabTrigger>
+    <tabTrigger>lsin</tabTrigger>
 </snippet>

@@ -2,5 +2,5 @@
     <content><![CDATA[display: compact;$0]]></content>
     <description>display: compact</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>d</tabTrigger>
+    <tabTrigger>dc</tabTrigger>
 </snippet>

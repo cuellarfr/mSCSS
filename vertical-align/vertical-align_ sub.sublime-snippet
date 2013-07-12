@@ -2,5 +2,5 @@
     <content><![CDATA[vertical-align: sub;$0]]></content>
     <description>vertical-align: sub</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>va</tabTrigger>
+    <tabTrigger>vasb</tabTrigger>
 </snippet>

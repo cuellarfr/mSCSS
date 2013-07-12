@@ -2,5 +2,5 @@
     <content><![CDATA[float: none;$0]]></content>
     <description>float: none</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>fl</tabTrigger>
+    <tabTrigger>fln</tabTrigger>
 </snippet>

@@ -2,5 +2,5 @@
     <content><![CDATA[text-decoration: underline;$0]]></content>
     <description>text-decoration: underline</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>td</tabTrigger>
+    <tabTrigger>tdu</tabTrigger>
 </snippet>

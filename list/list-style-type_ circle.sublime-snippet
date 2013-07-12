@@ -2,5 +2,5 @@
     <content><![CDATA[list-style-type: circle;$0]]></content>
     <description>list-style-type: circle</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>lst</tabTrigger>
+    <tabTrigger>lstc</tabTrigger>
 </snippet>

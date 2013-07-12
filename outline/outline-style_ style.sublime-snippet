@@ -2,5 +2,5 @@
     <content><![CDATA[outline-style: ${1:none/dotted/dashed/solid/double/groove/ridge/inset/outset};$0]]></content>
     <description>outline-style: style</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>ol</tabTrigger>
+    <tabTrigger>ols</tabTrigger>
 </snippet>

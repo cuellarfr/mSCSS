@@ -2,5 +2,5 @@
     <content><![CDATA[clear: both;$0]]></content>
     <description>clear: both</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>cl</tabTrigger>
+    <tabTrigger>clb</tabTrigger>
 </snippet>

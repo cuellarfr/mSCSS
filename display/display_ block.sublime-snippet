@@ -2,5 +2,5 @@
     <content><![CDATA[display: block;$0]]></content>
     <description>display: block</description>
     <scope>source.css,source.scss</scope>
-    <tabTrigger>d</tabTrigger>
+    <tabTrigger>db</tabTrigger>
 </snippet>
