@@ -2,6 +2,6 @@
     <content><![CDATA[${3:background-image: none;
 }filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='${1:${TM_SELECTED_TEXT:/images/transparent.png}}', sizingMethod='${2:image/scale/crop}');]]></content>
     <description>IE png</description>
-    <scope>source.css,source.scss</scope>
+    <scope>source.css,source.scss,source.sass</scope>
     <tabTrigger>iepng</tabTrigger>
 </snippet>

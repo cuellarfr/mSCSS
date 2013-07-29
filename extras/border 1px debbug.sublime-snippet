@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[border: 1px solid ${1:red};$0]]></content>
     <description>border 1px debbug</description>
-    <scope>source.css,source.scss</scope>
+    <scope>source.css,source.scss,source.sass</scope>
     <tabTrigger>bdd</tabTrigger>
 </snippet>
