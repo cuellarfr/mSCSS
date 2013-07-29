@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[box-shadow: ${1:1px} ${2:1px} ${3:1px} ${4:1px} ${5:rgba(111, 111, 111, 1)};$0]]></content>
+  <tabTrigger>bs</tabTrigger>
+  <scope>source.css,source.scss,source.sass</scope>
+</snippet>
