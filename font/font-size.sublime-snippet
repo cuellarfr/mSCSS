@@ -2,5 +2,5 @@
     <content><![CDATA[font-size: ${1:12}${2:px};$0]]></content>
     <description>font-size</description>
     <scope>source.css,source.scss,source.sass</scope>
-    <tabTrigger>fsz</tabTrigger>
+    <tabTrigger>fs</tabTrigger>
 </snippet>
